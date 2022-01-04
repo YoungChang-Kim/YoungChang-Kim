@@ -1,8 +1,8 @@
 ### Hi there 👋
 # 이력
 ## 1. 성결대학교 컴퓨터공학생
-## 2. 구디아카데미 (자바/스프링 기반) 디지털융합 SW전문가 양성과정(5회차) 2021. 06. 23 ~ 2021. 12. 29 https://www.gdu.co.kr/process/process_010100.html?bmain=view&uid=37&mode=1 
-## 3. 졸업 작품 : 라즈베리파이를 활용한 원격/자동 제어 실내 조도관리시스템 github organization name (FancySunshine) (사용 센서 : 조도센서, 모터, tof센서, 모바일앱)
+## 2. [구디아카데미 (자바/스프링 기반) 디지털융합 SW전문가 양성과정(5회차) 2021. 06. 23 ~ 2021. 12. 29](https://www.gdu.co.kr/process/process_010100.html?bmain=view&uid=37&mode=1) 
+## 3. [졸업 작품 : 라즈베리파이를 활용한 원격/자동 제어 실내 조도관리시스템 (사용 센서 : 조도센서, 모터, tof센서, 모바일앱)](https://github.com/FancySunshine/RPi-LED_Curtain-)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=YoungChang-Kim)
 ![YoungChang-Kim's github stats](https://github-readme-stats.vercel.app/api?username=YoungChang-Kim&show_icons=true)
