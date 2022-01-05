@@ -19,6 +19,9 @@
 ### - DataBase : Oracle 11g
 ### - FBS - 
 ![image](https://user-images.githubusercontent.com/59557218/148182695-e62e92c1-c972-4817-a27a-72724e53fb9c.png)
+### - Class Diagram
+![Goodee_Final_Spring_Tour-class](https://user-images.githubusercontent.com/59557218/148185510-fcb79182-9a20-4e5f-8cf2-88d061046b45.PNG)
+
 
 
 ## 2. [Academy-Management 통합 학사관리 시스템](https://github.com/academy-management/management)
