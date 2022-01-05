@@ -21,8 +21,8 @@
 ![image](https://user-images.githubusercontent.com/59557218/148182695-e62e92c1-c972-4817-a27a-72724e53fb9c.png)
 ### - Class Diagram
 ![Goodee_Final_Spring_Tour-class](https://user-images.githubusercontent.com/59557218/148185510-fcb79182-9a20-4e5f-8cf2-88d061046b45.PNG)
-
-
+### - ER-Diagram
+![image](https://user-images.githubusercontent.com/59557218/148190114-e07ecfde-23b4-406e-99fe-1d62e8d4fba9.png)
 
 ## 2. [Academy-Management 통합 학사관리 시스템](https://github.com/academy-management/management)
 ### - 개발환경 : Window 10
